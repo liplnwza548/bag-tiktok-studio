@@ -6,7 +6,9 @@ recipe: A
 target_duration_sec: 20.5
 bgm: Video_Studio/input/bgm/ (pick soft minimal · vol 0.25)
 vo: none
-status: draft
+status: approved_by_human
+approved_at: 2026-07-28
+approved_by: Lip
 mode: best_effort_low_luxury
 model_lock: B
 sources:
@@ -146,13 +148,13 @@ Draft ชื่อแนะนำ: `01-LNB017-CALUOMATT-A-besteffort`
 
 ## Human approval (ทีม 2 → คน)
 
-- [ ] ยอมรับ model **B only** (ไม่ปน 01/06)
-- [ ] ยอมรับโหมด **best effort** (ไม่ใช่คลิปทอง)
-- [ ] hero #1 + exit #12 โอเค
-- [ ] ข้อความ 3 บรรทัดโอเค / แก้คำ
-- [ ] พร้อมให้ทีม 3 ประกอบ CapCut
+- [x] ยอมรับ model **B only** (ไม่ปน 01/06)
+- [x] ยอมรับโหมด **best effort** (ไม่ใช่คลิปทอง)
+- [x] hero #1 + exit #12 โอเค
+- [x] ข้อความ 3 บรรทัดโอเค / แก้คำ
+- [x] พร้อมให้ทีม 3 ประกอบ CapCut
 
-**สถานะ:** `draft` — ตั้ง `approved_by_human` เมื่อติ๊กครบ
+**สถานะ:** `approved_by_human` (Lip 2026-07-28)
 
 ---
 
