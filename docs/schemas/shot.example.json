@@ -1,0 +1,19 @@
+{
+  "clip": "clip012.mp4",
+  "sku": "LNB017",
+  "shop": "CALUOMATT",
+  "t_in": 3.5,
+  "t_out": 5.2,
+  "category": "hero_wear",
+  "model": "A",
+  "score": 9.2,
+  "camera": "medium",
+  "direction": "static",
+  "lighting": "soft_daylight",
+  "background": "clean_indoor",
+  "emotion": "luxury",
+  "bag_visible": "full",
+  "usable": true,
+  "use": "hook",
+  "issues": []
+}

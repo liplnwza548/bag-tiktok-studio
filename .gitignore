@@ -1,0 +1,49 @@
+# secrets & env
+.env
+.env.*
+!.env.example
+SECRET*
+**/credentials*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Node (if added later)
+node_modules/
+
+# media & heavy outputs (never commit)
+*.mov
+*.MOV
+*.mp4
+*.MP4
+*.mkv
+*.wav
+*.mp3
+*.aac
+jobs/**/raw/
+jobs/**/export/
+jobs/**/output/
+jobs/**/*.json.bak
+**/CapCut/
+**/drafts/
+
+# local job working copies
+jobs/*/*
+!jobs/.gitkeep
+!jobs/README.md
+
+# logs
+*.log
+.cache/
