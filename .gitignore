@@ -43,6 +43,12 @@ jobs/**/*.json.bak
 jobs/*/*
 !jobs/.gitkeep
 !jobs/README.md
+# allow example FOOTAGE.md only (no media)
+!jobs/**/FOOTAGE.md
+!jobs/**/EDIT_PLAN.md
+!jobs/**/QC.md
+!jobs/**/LESSONS.md
+jobs/**/_proxies/
 
 # logs
 *.log
